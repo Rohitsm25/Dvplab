@@ -1,6 +1,6 @@
-m1=int(input("enter numbers 1"))
-m2=int(input("enter numbers 2"))
-m3=int(input("enter numbers 3"))
+m1=int(input("enter numbers 1="))
+m2=int(input("enter numbers 2="))
+m3=int(input("enter numbers 3="))
 if(m1<m2 and m1<m3):
     avg=(m2+m3)/2
 elif(m2<m1 and m2<m3):
